@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sivasankar2002
 - 👀 I’m interested in ...TEAM LEAD
 - 🌱 I’m currently learning ... project developing
-- 💞️ I’m looking to collaborate on ...MACHINE LEARNING ,DEEP LEARNING,DEVOPS
+- 💞️ I’m looking to collaborate on ...MACHINE LEARNING ,DEEP LEARNING, DEVOPS
 
 
 <!---
